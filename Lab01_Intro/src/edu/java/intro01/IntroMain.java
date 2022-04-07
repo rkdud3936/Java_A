@@ -14,7 +14,7 @@ public class IntroMain {
 		System.out.println("안녕하세요.");
 		System.out.println("Hello, Java");
 		// 모든 문장의 끝은 ;
-		// 실행(Run) 단축키: Ctrl+F11
+		// 실행(Run) 단축키: Ctrl+F11 
 	}
 
 }
