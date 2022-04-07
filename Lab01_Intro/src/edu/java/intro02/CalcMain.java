@@ -14,6 +14,6 @@ public class CalcMain {  // 클래스 시작
 		System.out.println('a');  // a 문자 (1개)를 콘솔에 출력.
 		System.out.println("a");  // 문자 1개로 이루어진 문자열을 콘솔에 출력.
 		
-	}  // main 메서드 끝
+	}  // main 메서드 끝 
 	
 }  // 클래스 끝 
