@@ -15,4 +15,4 @@ public interface OracleJdbc {
 	String COL_TITLE = "title";
 	String COL_CONTENT = "content";
 	String COL_UPDATE_TIME = "update_time";
-}
+} 
